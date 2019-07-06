@@ -1,0 +1,58 @@
+{
+  "_from": "react-native-file-selector",
+  "_id": "react-native-file-selector@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Xb3LOg3cCpjcIFtavPvEkuE7VAp/VMZOUmCNviSPOKbt+lFukRJSbIHNivhThYIkKPCHy/RP8rpkz23vJjE3Qw==",
+  "_location": "/react-native-file-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-file-selector",
+    "name": "react-native-file-selector",
+    "escapedName": "react-native-file-selector",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-file-selector/-/react-native-file-selector-0.0.6.tgz",
+  "_shasum": "ced266a44ed50c18f7c96f5e25273836064058e3",
+  "_spec": "react-native-file-selector",
+  "_where": "/Users/DevForce/Desktop/veery/veery",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-file-selector/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pod-installer": "0.0.0"
+  },
+  "deprecated": false,
+  "description": "React Native: Native File Selector",
+  "devDependencies": {
+    "prettier-pack": "0.0.7"
+  },
+  "homepage": "https://github.com/prscX/react-native-file-selector#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License",
+  "main": "RNFileSelector.js",
+  "name": "react-native-file-selector",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-file-selector.git"
+  },
+  "scripts": {
+    "postinstall": "node ../pod-installer/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}

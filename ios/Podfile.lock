@@ -1,0 +1,21 @@
+PODS:
+  - FileBrowser (1.0.0)
+
+DEPENDENCIES:
+  - FileBrowser (from `https://github.com/prscX/FileBrowser`)
+
+EXTERNAL SOURCES:
+  FileBrowser:
+    :git: https://github.com/prscX/FileBrowser
+
+CHECKOUT OPTIONS:
+  FileBrowser:
+    :commit: b9d90f2c050c0b1564274697c262c1715674593e
+    :git: https://github.com/prscX/FileBrowser
+
+SPEC CHECKSUMS:
+  FileBrowser: 5c55dc8345752a8cb67c9b6e1d8810c4ee065465
+
+PODFILE CHECKSUM: e661a6f7762e7314b2c05b56a53d6b866b21ccfc
+
+COCOAPODS: 1.5.3
